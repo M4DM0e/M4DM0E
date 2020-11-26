@@ -16,10 +16,8 @@
 <summary> <b> <samp> More about me! : </samp></b></summary>
 <samp>
 
-### Who am i ? :
+My name is Mohammed Fadhl Al-Barbari 18 y/o cyber security researcher , Web developer, Mobile applications developer, tools developer and Bugs hunter from Yemen 🇾🇪
 
-- Mohammed Fadhl Al-Barbari 19 y/o from Yemen
--  
   
 ## Languages
 
