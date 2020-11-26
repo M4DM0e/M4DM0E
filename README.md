@@ -12,23 +12,8 @@
 
 
 <details align="center">
-<summary> <b> <samp> You can find me on:! </samp></b></summary>
-<samp>
-<br />
-  
-[![Twitter Badge](https://img.shields.io/badge/-@m4dm0e-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/m4dm0e)
-[![LinkedIn Badge](https://img.shields.io/badge/-Mohammed%20AlBarbari-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albarbari)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/ITGeeks)
-[![HackerOne Badge](https://img.shields.io/badge/-HackerOne-2E2E2E?style=for-the-badge&logo=HackerOne&logoColor=white)](https://hackerone.com/m4dm0e)
-[![BugCrowd Badge](https://img.shields.io/badge/-BugCrowd-FF9906?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/m4dm0e)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-005B9B?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/m4dm0e)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/9c9w/)
-</samp>
-</details>
 
-<details align="center">
-
-<summary> <b> <samp> More about me:! </samp></b></summary>
+<summary> <b> <samp> More about me! : </samp></b></summary>
 <samp>
   
 ## Languages
@@ -40,11 +25,25 @@
 ![GoLang](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=Go)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
+<br />
+<br />
+
+  
+### You can find me on! 
+<br />
+
+[![Twitter Badge](https://img.shields.io/badge/-@m4dm0e-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/m4dm0e)
+[![LinkedIn Badge](https://img.shields.io/badge/-Mohammed%20AlBarbari-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albarbari)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/ITGeeks)
+[![HackerOne Badge](https://img.shields.io/badge/-HackerOne-2E2E2E?style=for-the-badge&logo=HackerOne&logoColor=white)](https://hackerone.com/m4dm0e)
+[![BugCrowd Badge](https://img.shields.io/badge/-BugCrowd-FF9906?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/m4dm0e)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-005B9B?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/m4dm0e)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/9c9w/)
+
 
 <br />
 </samp>
 </details>
-
 
 <p align="center"> 
   <br>
