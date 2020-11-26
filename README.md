@@ -17,8 +17,7 @@
 <samp>
 <br><br>
   
- My name is Mohammed Fadhl Al-Barbari 18 y/o from Yemen 🇾🇪 and i'm independent cybersecurity researcher , Web developer, Mobile application developer and Bugs Hunter  
- 
+ My name is Mohammed Fadhl Al-Barbari 18 y/o cyber security researcher , Web developer, Mobile applications developer, tools developer and Bugs hunter from Yemen 🇾🇪
 ## Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
