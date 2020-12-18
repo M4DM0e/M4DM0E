@@ -16,7 +16,7 @@
 <summary> <b> <samp> More about me! : </samp></b></summary>
 <samp>
 
-My name is Mohammed Fadhl Al-Barbari 18 y/o cyber security researcher , Web developer, Mobile applications developer, tools builder and Bugs hunter from Yemen 🇾🇪
+My name is Mohammed Fadhl Al-Barbari 18 y/o cyber security researcher , Web developer, Mobile application developer, Gopher, tools builder and Bugs hunter from Yemen 🇾🇪
 
   
 ## Languages
@@ -35,16 +35,17 @@ My name is Mohammed Fadhl Al-Barbari 18 y/o cyber security researcher , Web deve
 ### You can find me on! 
 <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@m4dm0e-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/m4dm0e)
-[![LinkedIn Badge](https://img.shields.io/badge/-Mohammed%20AlBarbari-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albarbari)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/ITGeeks)
-[![HackerOne Badge](https://img.shields.io/badge/-HackerOne-2E2E2E?style=for-the-badge&logo=HackerOne&logoColor=white)](https://hackerone.com/m4dm0e)
-[![BugCrowd Badge](https://img.shields.io/badge/-BugCrowd-FF9906?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/m4dm0e)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-005B9B?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/m4dm0e)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/9c9w/)
 
-
+<p align="center">
+<a href="https://twitter.com/m4dm0e"><img alt="Website" src="https://img.shields.io/twitter/follow/m4dm0e.svg?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/Albarbari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Al%20Barbari-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.grodriket.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://hackerone.com/m4dm0e"><img alt="Email" src="https://img.shields.io/badge/Hackerone-m4dm0e-blue?style=flat-square&logo=hackerone"></a>
+<a href="https://www.instagram.com/9c9w/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-9c9w-blue?style=flat-square&logo=instagram"></a>
+</p>
 <br />
+
+
 </samp>
 </details>
 
