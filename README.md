@@ -2,7 +2,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://blog.grodriket.com/">Mohammed Al-Barbari</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://m4dm0e.github.io/">Mohammed Al-Barbari</a></b>.
     <br>I'm a Cyber security researcher.<br>
 
 </samp>
