@@ -32,18 +32,21 @@ My name is Mohammed Fadhl Al-Barbari 17 y/o cyber security researcher, Web devel
 <br />
 
   
-### CVEs 
+### CVEs 
 <a href="https://m4dm0e.github.io/2020/12/07/incom-insecure-up.html"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.29597-000000?style=flat&logo=CVE"></a>
 <a href="https://m4dm0e.github.io/2020/12/07/ipeak-cms-sqli.html"><img alt="Website" src="https://img.shields.io/badge/CVE.2021.3018-000000?style=flat&logo=CVE"></a>
 <a href="https://m4dm0e.github.io/2021/01/04/mikrotik-xss-reflected.html"><img alt="Website" src="https://img.shields.io/badge/CVE.2021.3014-000000?style=flat&logo=CVE"></a>
 
   
-### You can find me on! 
+### You can find me on! 
 <br />
 
 
 <p align="center">
 <a href="https://twitter.com/m4dm0e"><img alt="Website" src="https://img.shields.io/twitter/follow/m4dm0e.svg?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/Albarbari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Al%20Barbari-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.grodriket.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://hackerone.com/m4dm0e"><img alt="Email" src="https://img.shields.io/badge/Hackerone-m4dm0e-blue?style=flat-square&logo=hackerone"></a>
 </p>
 <br />
 
