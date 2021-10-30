@@ -47,7 +47,7 @@ My name is Mohammed Fadhl Al-Barbari 18 y/o cyber security researcher, Web devel
 <p align="center">
 <a href="https://twitter.com/m4dm0e"><img alt="Website" src="https://img.shields.io/twitter/follow/m4dm0e.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/Albarbari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Al%20Barbari-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.grodriket.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://albarbari.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.grodriket.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://hackerone.com/m4dm0e"><img alt="Email" src="https://img.shields.io/badge/Hackerone-m4dm0e-blue?style=flat-square&logo=hackerone"></a>
 </p>
 <br />
