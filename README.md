@@ -1,63 +1,56 @@
-
 <p align="center">
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://m4dm0e.github.io/">Mohammed Al-Barbari</a></b>.
-    <br>I'm a Cyber security researcher.<br>
-
-</samp>
+    <br>Cybersecurity researcher & penetration tester.<br>
+  </samp>
 
   <img src="./assets/pArt.gif" width="200"/>
 </p>
 
-
 <details align="center">
-
-<summary> <b> <samp> More about me! : </samp></b></summary>
+<summary><b><samp>More about me</samp></b></summary>
 <samp>
 
-My name is Mohammed Fadhl Al-Barbari 18 y/o cyber security researcher, Web developer, Mobile application developer, Gopher, tools builder, and Bugs hunter from Yemen 🇾🇪
+My name is Mohammed Fadhl Al-Barbari, 23-year-old cybersecurity researcher, penetration tester, and tools builder from Yemen 🇾🇪.
+
+I focus on web security, vulnerability research, automation, and reconnaissance engineering.
 
   
-## Languages
+## Languages & Tools
 
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![GoLang](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=Go)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
-<br />
-<br />
+<br><br>
 
-  
-### CVEs 
-<a href="https://m4dm0e.github.io/2020/12/07/incom-insecure-up.html"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.29597-000000?style=flat&logo=CVE"></a>
-<a href="https://m4dm0e.github.io/2020/12/07/ipeak-cms-sqli.html"><img alt="Website" src="https://img.shields.io/badge/CVE.2021.3018-000000?style=flat&logo=CVE"></a>
-<a href="https://m4dm0e.github.io/2021/01/04/mikrotik-xss-reflected.html"><img alt="Website" src="https://img.shields.io/badge/CVE.2021.3014-000000?style=flat&logo=CVE"></a>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42592"><img alt="Website" src="https://img.shields.io/badge/CVE.2021.42592-000000?style=flat&logo=CVE"></a>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42593"><img alt="Website" src="https://img.shields.io/badge/CVE.2021.42593-000000?style=flat&logo=CVE"></a>
+### CVEs
 
-  
-### You can find me on! 
-<br />
+<a href="https://m4dm0e.github.io/2020/12/07/incom-insecure-up.html"><img alt="CVE" src="https://img.shields.io/badge/CVE.2020.29597-000000?style=flat&logo=CVE"></a>
+<a href="https://m4dm0e.github.io/2020/12/07/ipeak-cms-sqli.html"><img alt="CVE" src="https://img.shields.io/badge/CVE.2021.3018-000000?style=flat&logo=CVE"></a>
+<a href="https://m4dm0e.github.io/2021/01/04/mikrotik-xss-reflected.html"><img alt="CVE" src="https://img.shields.io/badge/CVE.2021.3014-000000?style=flat&logo=CVE"></a>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42592"><img alt="CVE" src="https://img.shields.io/badge/CVE.2021.42592-000000?style=flat&logo=CVE"></a>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42593"><img alt="CVE" src="https://img.shields.io/badge/CVE.2021.42593-000000?style=flat&logo=CVE"></a>
 
+<br><br>
+
+### Find me on
 
 <p align="center">
-<a href="https://twitter.com/m4dm0e"><img alt="Website" src="https://img.shields.io/twitter/follow/m4dm0e.svg?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/m4dm0e"><img alt="Twitter" src="https://img.shields.io/twitter/follow/m4dm0e.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/Albarbari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Al%20Barbari-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://albarbari.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.albarbari.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://hackerone.com/m4dm0e"><img alt="Email" src="https://img.shields.io/badge/Hackerone-m4dm0e-blue?style=flat-square&logo=hackerone"></a>
+<a href="https://m4dm0e.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.albarbari.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://hackerone.com/m4dm0e"><img alt="HackerOne" src="https://img.shields.io/badge/HackerOne-m4dm0e-blue?style=flat-square&logo=hackerone"></a>
 </p>
-<br />
-
 
 </samp>
 </details>
 
 <p align="center"> 
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=M4DM0E&hide_title=true&show_icons=true&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M4DM0E&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
- 
